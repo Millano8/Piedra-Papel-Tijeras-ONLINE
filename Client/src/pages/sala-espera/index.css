@@ -1,0 +1,52 @@
+.init-salaEspera {
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.init-salaEspera__title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    margin-top: 15%;
+    align-items: center;
+    justify-content: center;
+}
+
+.init-salaEspera__score{
+    width: 100%;
+    display: flex;
+    font-family: 'Odibee Sans', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    justify-content: space-between;
+    padding: 3% 10%;
+}
+
+#player2-salaEspera{
+    color: #ff6442
+}
+
+.init-salaEspera__players{
+    align-items: center;
+}
+
+.init-salaEspera__sala{
+    text-align: center;
+}
+
+
+.init-salaEspera__button{
+    margin-top: 15%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.init-salaEspera__hands{
+    margin-top: 25%;
+    margin-left: 25%;
+    align-items: center;
+    justify-content: center;
+}

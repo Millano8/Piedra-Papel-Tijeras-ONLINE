@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+
+
+.init-juego{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+}
+
+.init-juego__rotadas{
+    transform: scaleY(-1);
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    gap: 15%;
+}
+
+.init-juego__hands{
+    align-items:center;
+    justify-content: space-evenly;
+    display: flex;
+    gap: 15%;
+    position: absolute;
+    bottom: -30%;
+}
+
+.piedra:hover{
+    cursor: pointer;
+    width: 100px;
+    height: 200px;
+}
+
+.papel:hover{
+    cursor: pointer;
+    width: 100px;
+    height: 200px;
+}
+
+.tijeras:hover{
+    cursor: pointer;
+    width: 100px;
+    height: 200px;
+}
+
+.count-down{
+    position: absolute;
+}

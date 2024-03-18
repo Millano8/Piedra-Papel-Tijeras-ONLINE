@@ -1,0 +1,36 @@
+.init-page{
+    margin: 0;
+    width:100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.init-page__title{
+    margin-top: 5%;
+    width: 100%;
+    font-weight: 600;
+    font-size: 80px;
+    color: #009048;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.init-page__button-nuevoJuego{
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 2%;
+
+}
+.init-page__button-nuevaSala{
+    align-items: center;
+    justify-content: center;
+}
+
+.init-page__hands{
+    margin-top: 5%;
+}

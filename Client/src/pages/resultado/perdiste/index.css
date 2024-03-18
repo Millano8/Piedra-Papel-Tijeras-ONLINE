@@ -1,0 +1,24 @@
+.res-perdiste{
+    background-color: #894949;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 667px;
+}
+
+
+.res-perdiste__score{
+    margin-top: 1%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.res-perdiste__button{
+    margin-top: 2%;
+    align-items: center;
+    justify-content: center;
+}

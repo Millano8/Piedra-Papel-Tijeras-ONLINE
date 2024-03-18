@@ -1,0 +1,26 @@
+.init-pelea {
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+}
+
+.init-pelea__rotada{
+    transform: scaleY(-1);
+    align-items: center;
+    display: flex;
+}
+
+.init-pelea__myPlay{
+    align-items: center;
+}
+
+.init-pelea__img{
+    width: 100px;
+    height: 250px;
+}
+
+.init-pelea__explosionImg{
+    width:300px;
+    height: 300px;
+}

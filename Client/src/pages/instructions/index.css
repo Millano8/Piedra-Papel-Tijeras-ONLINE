@@ -1,0 +1,59 @@
+.init-instructions {
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.init-instructions__title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    margin-top: 15%;
+    align-items: center;
+    justify-content: center;
+}
+
+.init-page-instructions__score{
+    width: 100%;
+    display: flex;
+    font-family: 'Odibee Sans', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    justify-content: space-between;
+    padding: 3% 10%;
+}
+
+#player2-instructions{
+    color: #ff6442
+}
+
+.init-page-instructions__players{
+    align-items: center;
+}
+
+.init-page-instructions__sala{
+    text-align: center;
+}
+
+
+.init-instructions__button{
+    margin-top: 15%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.init-instructions__reset-button{
+    margin-top: 3%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.init-instructions__hands{
+    margin-top: 25%;
+    margin-left: 25%;
+    align-items: center;
+    justify-content: center;
+}

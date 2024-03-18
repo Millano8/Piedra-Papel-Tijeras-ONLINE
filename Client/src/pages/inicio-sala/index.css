@@ -1,0 +1,37 @@
+.init-page-sala{
+    margin: 0;
+    width:100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.init-page-sala__title{
+    margin-top: 5%;
+    width: 100%;
+    font-weight: 600;
+    font-size: 80px;
+    color: #009048;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.init-page-sala__input{
+    border: solid 10px #182460;
+    border-radius: 10px;
+    font-family: 'Odibee Sans', sans-serif;
+    font-size: 45px;
+    text-align: center;
+}
+
+.init-page-sala__button{
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.init-page-sala__hands{
+    margin-top: 10%
+}
